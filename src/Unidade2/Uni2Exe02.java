@@ -1,7 +1,7 @@
 package Unidade2;
 import java.util.Scanner;
 
-public class Uni2Exe01 {
+public class Uni2Exe02 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -10,8 +10,8 @@ public class Uni2Exe01 {
         System.out.println("Insira outro número:");
         int b = scanner.nextInt();
 
-        int soma = a + b;
-        System.out.println("O resultado é: " + soma);
+        int multi = a * b;
+        System.out.println("O resultado é: " + multi);
 
         scanner.close();
 
