@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni2Exe01",
+            "request": "launch",
+            "mainClass": "Unidade2.Uni2Exe01",
+            "projectName": "IntroProgramacaoJAVA_FURB_931ad2a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni2Exe02",
+            "request": "launch",
+            "mainClass": "Unidade2.Uni2Exe02",
+            "projectName": "IntroProgramacaoJAVA_FURB_931ad2a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni2Exe03",
+            "request": "launch",
+            "mainClass": "Unidade2.Uni2Exe03",
+            "projectName": "IntroProgramacaoJAVA_FURB_931ad2a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni2Exe04",
+            "request": "launch",
+            "mainClass": "Unidade2.Uni2Exe04",
+            "projectName": "IntroProgramacaoJAVA_FURB_931ad2a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni2Exe07",
+            "request": "launch",
+            "mainClass": "Unidade2.Uni2Exe07",
+            "projectName": "IntroProgramacaoJAVA_FURB_931ad2a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni2Exe14",
+            "request": "launch",
+            "mainClass": "Unidade2.Uni2Exe14",
+            "projectName": "IntroProgramacaoJAVA_FURB_931ad2a8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Uni2Exe15",
+            "request": "launch",
+            "mainClass": "Unidade2.Uni2Exe15",
+            "projectName": "IntroProgramacaoJAVA_FURB_931ad2a8"
+        }
+    ]
+}
