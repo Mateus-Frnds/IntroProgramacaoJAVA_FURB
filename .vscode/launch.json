@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Uni3Exe02",
+            "request": "launch",
+            "mainClass": "Unidade3.Uni3Exe02",
+            "projectName": "IntroProgramacaoJAVA_FURB_931ad2a8"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
