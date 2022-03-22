@@ -12,7 +12,8 @@ public class Uri1009 {
         double percentvendas = venda * 0.15;
         double total = percentvendas + salario;
 
-        System.out.printf("TOTAL = R$ %.2f%n", total);
+        //variavel 'nome' adicionada pq meu toc n permite deixar a classe amarela no vscode
+        System.out.printf(nome + "TOTAL = R$ %.2f%n", total);
 
         scanner.close();
         

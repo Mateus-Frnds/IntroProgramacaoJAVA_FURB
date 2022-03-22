@@ -21,7 +21,8 @@ public class Uri1010 {
 
         double total = compra1 + compra2;
 
-        System.out.printf("VALOR A PAGAR: R$ %.2f%n", total);
+        //variaveis 'cod1' e 'cod2' adicionadas pq meu toc n permite deixar a classe amarela no vscode
+        System.out.printf(cod1 + cod2 + "VALOR A PAGAR: R$ %.2f%n", total);
 
         scanner.close();
     }
