@@ -1,4 +1,4 @@
-package Unidade2;
+package Unidade2.AtividadeAula;
 
 import java.util.Locale;
 import java.util.Scanner;

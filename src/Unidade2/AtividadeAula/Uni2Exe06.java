@@ -1,4 +1,4 @@
-package Unidade2;
+package Unidade2.AtividadeAula;
 import java.util.Scanner;
 
 public class Uni2Exe06 {
