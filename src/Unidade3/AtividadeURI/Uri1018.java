@@ -37,7 +37,7 @@ public class Uri1018 {
         System.out.printf("%d nota(s) de R$ 10,00\n", dez);
         System.out.printf("%d nota(s) de R$ 5,00\n", cinco);
         System.out.printf("%d nota(s) de R$ 2,00\n", dois);
-        System.out.printf("%d nota(s) de R$ 1,00\n", troco);
+        System.out.printf("%d nota(s) de R$ 1,00\n", um);
 
         scanner.close();
 
