@@ -1,6 +1,8 @@
 package Unidade2.AtividadeAula;
 import java.util.Scanner;
 
+// Leia 2 valores inteiros e imprima sua soma.
+
 public class Uni2Exe01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
